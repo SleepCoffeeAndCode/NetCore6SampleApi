@@ -3,7 +3,7 @@
 
 ## Things to do:
 1. Change the connection string found in NetCore6API appsettings.json
-2. After changing the connection string, run the API and execute the "CreatePersonTable" end point
+2. After changing the connection string, run the API and execute the "CreatePersonTable" end point. (Note: make sure you create the Person table first before you can start testing out the code.)
 3. Now, you can test out the add person, get all person, get person by id, and update person end point
 
 ## For Dependency injection, see Program.cs Person Service region
